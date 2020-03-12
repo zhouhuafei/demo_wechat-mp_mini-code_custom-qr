@@ -61,7 +61,7 @@ Component({
       const bgColor = '#fff'
       const bgX = 0
       const bgY = 30
-      const bgRadius = 10
+      const bgRadius = 20
       const gapRadius = 10
       const bgLineColor = '#999'
       const bgLineX = 30
