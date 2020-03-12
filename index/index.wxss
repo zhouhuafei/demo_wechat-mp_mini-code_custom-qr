@@ -1,0 +1,7 @@
+page {
+    background: #000;
+}
+
+image {
+    vertical-align: middle;
+}

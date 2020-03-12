@@ -1,0 +1,5 @@
+<view style="display: flex;flex-direction: column;align-items: center;">
+  <image style="width: 345px;" src="{{homeQr}}" mode="widthFix" />
+  <components-custom-qr bindcanvas2img="staffGetHomeCustomQr"></components-custom-qr>
+</view>
+
